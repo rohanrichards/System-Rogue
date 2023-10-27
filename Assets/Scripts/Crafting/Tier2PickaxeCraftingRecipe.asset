@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03d20a7bc922f0944a3a1d9acc00173b, type: 3}
+  m_Name: Tier2PickaxeCraftingRecipe
+  m_EditorClassIdentifier: 
+  requiredItems:
+  - {fileID: 11400000, guid: 2d5a421032c48cc4f8f71d211dc10dc5, type: 2}
+  - {fileID: 11400000, guid: 9f817d68b3b27034b8c0a2153b1e39d9, type: 2}
+  producedItem: {fileID: 11400000, guid: 5d8665aa1fdbeb547a4800687b891dfe, type: 2}
+  toolAssetFolder: Assets/Game Items/

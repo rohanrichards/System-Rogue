@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d5456b189f1d3c4cac090812d60cfc9, type: 3}
+  m_Name: Tier3Axe
+  m_EditorClassIdentifier: 
+  title: Steel Axe
+  description: Made from steel and hardwood
+  artwork: {fileID: 21300000, guid: ea9dfcd4eba2bfd4daed7a92c3198228, type: 3}
+  isStackable: 0
+  isEquippable: 1
+  maxDurability: 100
+  currentDurability: 100
